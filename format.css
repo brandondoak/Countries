@@ -1,0 +1,11 @@
+.answer {
+	background-color:grey;
+}
+a:visited {
+	color:blue;
+}
+#reset {
+	height:75px;
+	width:150px;
+	font-size: 32px;
+}
