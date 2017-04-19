@@ -344,7 +344,7 @@ if (q1===0 || q2===0 || q3===0 || q4===0 || q5===0 || q6===0 || q7===0 || q8===0
 		break;
 		case 208474:
 		document.getElementById('text').innerHTML="The Country is Canada";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Canada.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/200px-Flag_of_Canada.svg.png";
 		break;
 		case 144944:
 		document.getElementById('text').innerHTML="The Country is Central African Republic";
