@@ -276,7 +276,7 @@ if (q1===0 || q2===0 || q3===0 || q4===0 || q5===0 || q6===0 || q7===0 || q8===0
 	switch (score) {
 		case 186326:
 		document.getElementById('text').innerHTML="The Country is Afghanistan";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Afghanistan.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/150px-Flag_of_Afghanistan.svg.png";
 		break;
 		case 131847:
 		document.getElementById('text').innerHTML="The Country is Algeria";
