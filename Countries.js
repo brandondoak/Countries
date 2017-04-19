@@ -280,67 +280,66 @@ if (q1===0 || q2===0 || q3===0 || q4===0 || q5===0 || q6===0 || q7===0 || q8===0
 		break;
 		case 131847:
 		document.getElementById('text').innerHTML="The Country is Algeria";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Algeria.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/150px-Flag_of_Algeria.svg.png";
 		break;
 		case 138107:
 		document.getElementById('text').innerHTML="The Country is Argentina";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Argentina.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/160px-Flag_of_Argentina.svg.png";
 		break;
 		case 134459:
 		document.getElementById('text').innerHTML="The Country is Australia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Australia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/200px-Flag_of_Australia_%28converted%29.svg.png";
 		break;
 		case 303512:
 		document.getElementById('text').innerHTML="The Country is Azerbaijan";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Azerbaijan.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/200px-Flag_of_Azerbaijan.svg.png";
 		break;
 		case 72992:
 		document.getElementById('text').innerHTML="The Country is Austria";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Austria.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/150px-Flag_of_Austria.svg.png";
 		break;
 		case 16966:
 		document.getElementById('text').innerHTML="The Country is Bangladesh";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Bangladesh.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/167px-Flag_of_Bangladesh.svg.png";
 		break;
 		case 52680:
 		document.getElementById('text').innerHTML="The Country is Belarus";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Belarus.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/200px-Flag_of_Belarus.svg.png";
 		break;
 		case 10547:
 		document.getElementById('text').innerHTML="The Country is Belgium";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Belgium.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/150px-Flag_of_Belgium_%28civil%29.svg.png";
 		break;
 		case 16976:
 		document.getElementById('text').innerHTML="The Country is Belize";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Belize.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/150px-Flag_of_Belize.svg.png";
 		break;
 		case 136802:
 		document.getElementById('text').innerHTML="The Country is Bolivia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Bolivia.png";
-		break;
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/147px-Flag_of_Bolivia_%28state%29.svg.png";
 		case 32897:
 		document.getElementById('text').innerHTML="The Country is Bosnia and Herzegovina";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Bosnia-Hercegovina.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/200px-Flag_of_Bosnia_and_Herzegovina.svg.png";
 		break;
 		case 153936:
 		document.getElementById('text').innerHTML="The Country is Botswana";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Botswana.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/150px-Flag_of_Botswana.svg.png";
 		break;
 		case 133947:
 		document.getElementById('text').innerHTML="The Country is Brazil";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Brazil.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/143px-Flag_of_Brazil.svg.png";
 		break;
 		case 47552:
 		document.getElementById('text').innerHTML="The Country is Bulgaria";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Bulgaria.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/167px-Flag_of_Bulgaria.svg.png";
 		break;
 		case 45234:
 		document.getElementById('text').innerHTML="The Country is Cambodia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Cambodia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/157px-Flag_of_Cambodia.svg.png";
 		break;
 		case 140339:
 		document.getElementById('text').innerHTML="The Country is Cameroon";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Cameroon.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/150px-Flag_of_Cameroon.svg.png";
 		break;
 		case 208474:
 		document.getElementById('text').innerHTML="The Country is Canada";
@@ -348,458 +347,458 @@ if (q1===0 || q2===0 || q3===0 || q4===0 || q5===0 || q6===0 || q7===0 || q8===0
 		break;
 		case 144944:
 		document.getElementById('text').innerHTML="The Country is Central African Republic";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Central-African-Republic.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/150px-Flag_of_the_Central_African_Republic.svg.png";
 		break;
 		case 157282:
 		document.getElementById('text').innerHTML="The Country is Chad";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Chad.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/150px-Flag_of_Chad.svg.png";
 		break;
 		case 135763:
 		document.getElementById('text').innerHTML="The Country is Chile";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Chile.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/150px-Flag_of_Chile.svg.png";
 		break;
 		case 444402:
 		document.getElementById('text').innerHTML="The Country is China";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-China.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/150px-Flag_of_the_People%27s_Republic_of_China.svg.png";
 		break;
 		case 136019:
 		document.getElementById('text').innerHTML="The Country is Colombia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Colombia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/150px-Flag_of_Colombia.svg.png";
 		break;
 		case 189154:
 		document.getElementById('text').innerHTML="The Country is Democratic Republic of the Congo";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Congo-Democratic-Republic-of.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/133px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png";
 		break;
 		case 8224:
 		document.getElementById('text').innerHTML="The Country is The Republic of the Congo";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Congo.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/150px-Flag_of_the_Republic_of_the_Congo.svg.png";
 		break;
 		case 8243:
 		document.getElementById('text').innerHTML="The Country is Cote d'Ivoire";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Cote-d-Ivoire.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/150px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png";
 		break;
 		case 39329:
 		document.getElementById('text').innerHTML="The Country is Croatia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Croatia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/200px-Flag_of_Croatia.svg.png";
 		break;
 		case 55962:
 		document.getElementById('text').innerHTML="The Country is Cuba";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Cuba.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/200px-Flag_of_Cuba.svg.png";
 		break;
 		case 106146:
 		document.getElementById('text').innerHTML="The Country is Czech Republic";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Czech-Republic.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/150px-Flag_of_the_Czech_Republic.svg.png";
 		break;
 		case 6432:
 		document.getElementById('text').innerHTML="The Country is Denmark";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Denmark.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/132px-Flag_of_Denmark.svg.png";
 		break;
 		case 12340:
 		document.getElementById('text').innerHTML="The Country is Djibouti";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Djibouti.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/150px-Flag_of_Djibouti.svg.png";
 		break;
 		case 4562:
 		document.getElementById('text').innerHTML="The Country is Dominican Republic";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Dominican-Republic.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/150px-Flag_of_the_Dominican_Republic.svg.png";
 		break;
 		case 4195:
 		document.getElementById('text').innerHTML="The Country is Ecuador";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Ecuador.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/150px-Flag_of_Ecuador.svg.png";
 		break;
 		case 160630:
 		document.getElementById('text').innerHTML="The Country is Egypt";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Egypt.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/150px-Flag_of_Egypt.svg.png";
 		break;
 		case 4176:
 		document.getElementById('text').innerHTML="The Country is El Salvador";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-El-Salvador.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/178px-Flag_of_El_Salvador.svg.png";
 		break;
 		case 0:
 		document.getElementById('text').innerHTML="The Country is Eritrea";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Eritrea.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/200px-Flag_of_Eritrea.svg.png";
 		break;
 		case 39328:
 		document.getElementById('text').innerHTML="The Country is Estonia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Estonia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/157px-Flag_of_Estonia.svg.png";
 		break;
 		case 186322:
 		document.getElementById('text').innerHTML="The Country is Ethiopia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Ethiopia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/200px-Flag_of_Ethiopia.svg.png";
 		break;
 		case 640:
 		document.getElementById('text').innerHTML="The Country is Fiji";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Fiji.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/200px-Flag_of_Fiji.svg.png";
 		break;
 		case 72224:
 		document.getElementById('text').innerHTML="The Country is Finland";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Finland.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/164px-Flag_of_Finland.svg.png";
 		break;
 		case 405331:
 		document.getElementById('text').innerHTML="The Country is France";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-France.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/150px-Flag_of_France.svg.png";
 		break;
 		case 12592:
 		document.getElementById('text').innerHTML="The Country is Gabon";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Gabon.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/133px-Flag_of_Gabon.svg.png";
 		break;
 		case 39320:
 		document.getElementById('text').innerHTML="The Country is Georgia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Georgia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/150px-Flag_of_Georgia.svg.png";
 		break;
 		case 39363:
 		document.getElementById('text').innerHTML="The Country is Germany";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Germany.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/167px-Flag_of_Germany.svg.png";
 		break;
 		case 4627:
 		document.getElementById('text').innerHTML="The Country is Ghana";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Ghana.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/150px-Flag_of_Ghana.svg.png";
 		break;
 		case 14659:
 		document.getElementById('text').innerHTML="The Country is Greece";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Greece.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/150px-Flag_of_Greece.svg.png";
 		break;
 		case 16770:
 		document.getElementById('text').innerHTML="The Country is Guatemala";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Guatemala.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/160px-Flag_of_Guatemala.svg.png";
 		break;
 		case 12466:
 		document.getElementById('text').innerHTML="The Country is Haiti";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Haiti.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/167px-Flag_of_Haiti.svg.png";
 		break;
 		case 4177:
 		document.getElementById('text').innerHTML="The Country is Honduras";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Honduras.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/200px-Flag_of_Honduras.svg.png";
 		break;
 		case 40352:
 		document.getElementById('text').innerHTML="The Country is Hungary";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Hungary.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/200px-Flag_of_Hungary.svg.png";
 		break;
 		case 6296:
 		document.getElementById('text').innerHTML="The Country is Iceland";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Iceland.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/139px-Flag_of_Iceland.svg.png";
 		break;
 		case 416130:
 		document.getElementById('text').innerHTML="The Country is India";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-India.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/150px-Flag_of_India.svg.png";
 		break;
 		case 152562:
 		document.getElementById('text').innerHTML="The Country is Indonesia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Indonesia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/150px-Flag_of_Indonesia.svg.png";
 		break;
 		case 152407:
 		document.getElementById('text').innerHTML="The Country is Iran";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Iran.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/175px-Flag_of_Iran.svg.png";
 		break;
 		case 20566:
 		document.getElementById('text').innerHTML="The Country is Iraq";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Iraq.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/150px-Flag_of_Iraq.svg.png";
 		break;
 		case 2448:
 		document.getElementById('text').innerHTML="The Country is Ireland";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Ireland.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/200px-Flag_of_Ireland.svg.png";
 		break;
 		case 6168:
 		document.getElementById('text').innerHTML="The Country is Israel";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Israel.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/138px-Flag_of_Israel.svg.png";
 		break;
 		case 2355:
 		document.getElementById('text').innerHTML="The Country is Italy";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Italy.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/150px-Flag_of_Italy.svg.png";
 		break;
 		case 17344:
 		document.getElementById('text').innerHTML="The Country is Jamaica";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Jamaica.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/200px-Flag_of_Jamaica.svg.png";
 		break;
 		case 282091:
 		document.getElementById('text').innerHTML="The Country is Japan";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Japan.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/150px-Flag_of_Japan.svg.png";
 		break;
 		case 22620:
 		document.getElementById('text').innerHTML="The Country is Jordan";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Jordan.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/200px-Flag_of_Jordan.svg.png";
 		break;
 		case 167834:
 		document.getElementById('text').innerHTML="The Country is Kazakhstan";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Kazakhstan.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/200px-Flag_of_Kazakhstan.svg.png";
 		break;
 		case 136466:
 		document.getElementById('text').innerHTML="The Country is Kenya";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Kenya.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/150px-Flag_of_Kenya.svg.png";
 		break;
 		case 20820:
 		document.getElementById('text').innerHTML="The Country is Kuwait";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Kuwait.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/200px-Flag_of_Kuwait.svg.png";
 		break;
 		case 46256:
 		document.getElementById('text').innerHTML="The Country is Laos";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Laos.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/150px-Flag_of_Lesotho.svg.png";
 		break;
 		case 30840:
 		document.getElementById('text').innerHTML="The Country is Lebanon";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Lebanon.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/150px-Flag_of_Lebanon.svg.png";
 		break;
 		case 17984:
 		document.getElementById('text').innerHTML="The Country is Lesotho";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Lesotho.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/150px-Flag_of_Lesotho.svg.png";
 		break;
 		case 152148:
 		document.getElementById('text').innerHTML="The Country is Libya";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Libya.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/200px-Flag_of_Libya.svg.png";
 		break;
 		case 144050:
 		document.getElementById('text').innerHTML="The Country is Madagascar";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Madagascar.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/150px-Flag_of_Madagascar.svg.png";
 		break;
 		case 21334:
 		document.getElementById('text').innerHTML="The Country is Malaysia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Malaysia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/200px-Flag_of_Malaysia.svg.png";
 		break;
 		case 140834:
 		document.getElementById('text').innerHTML="The Country is Mali";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Mali.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/150px-Flag_of_Mali.svg.png";
 		break;
 		case 131939:
 		document.getElementById('text').innerHTML="The Country is Mexico";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Mexico.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/175px-Flag_of_Mexico.svg.png";
 		break;
 		case 14392:
 		document.getElementById('text').innerHTML="The Country is Monaco";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Monaco.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/125px-Flag_of_Monaco.svg.png";
 		break;
 		case 1167816:
 		document.getElementById('text').innerHTML="The Country is Mongolia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Mongolia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/200px-Flag_of_Mongolia.svg.png";
 		break;
 		case 8502:
 		document.getElementById('text').innerHTML="The Country is Morocco";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Morocco.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/150px-Flag_of_Morocco.svg.png";
 		break;
 		case 169106:
 		document.getElementById('text').innerHTML="The Country is Mozambique";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Mozambique.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/150px-Flag_of_Mozambique.svg.png";
 		break;
 		case 132096:
 		document.getElementById('text').innerHTML="The Country is Namibia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Namibia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/150px-Flag_of_Namibia.svg.png";
 		break;
 		case 6435:
 		document.getElementById('text').innerHTML="The Country is Netherlands";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Netherlands.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/150px-Flag_of_the_Netherlands.svg.png";
 		break;
 		case 2968:
 		document.getElementById('text').innerHTML="The Country is New Zealand";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-New-Zealand.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/200px-Flag_of_New_Zealand.svg.png";
 		break;
 		case 267344:
 		document.getElementById('text').innerHTML="The Country is Nicaragua";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Nicaragua.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/167px-Flag_of_Nicaragua.svg.png";
 		break;
 		case 144946:
 		document.getElementById('text').innerHTML="The Country is Niger";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Niger.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/117px-Flag_of_Niger.svg.png";
 		break;
 		case 148563:
 		document.getElementById('text').innerHTML="The Country is Nigeria";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Nigeria.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/200px-Flag_of_Nigeria.svg.png";
 		break;
 		case 55770:
 		document.getElementById('text').innerHTML="The Country is North Korea";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Korea-North.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/200px-Flag_of_North_Korea.svg.png";
 		break;
 		case 72216:
 		document.getElementById('text').innerHTML="The Country is Norway";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Norway.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/138px-Flag_of_Norway.svg.png";
 		break;
 		case 20564:
 		document.getElementById('text').innerHTML="The Country is Oman";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Oman.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/200px-Flag_of_Oman.svg.png";
 		break;
 		case 148566:
 		document.getElementById('text').innerHTML="The Country is Pakistan";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Pakistan.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/150px-Flag_of_Pakistan.svg.png";
 		break;
 		case 64:
 		document.getElementById('text').innerHTML="The Country is Panama";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Panama.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/150px-Flag_of_Panama.svg.png";
 		break;
 		case 132224:
 		document.getElementById('text').innerHTML="The Country is Papua New Guinea";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Papua-New-Guinea.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/133px-Flag_of_Papua_New_Guinea.svg.png";
 		break;
 		case 5200:
 		document.getElementById('text').innerHTML="The Country is Paraguay";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Paraguay.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/182px-Flag_of_Paraguay.svg.png";
 		break;
 		case 131650:
 		document.getElementById('text').innerHTML="The Country is Peru";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Peru.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/150px-Flag_of_Peru.svg.png";
 		break;
 		case 4258:
 		document.getElementById('text').innerHTML="The Country is The Philippines";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Philippines.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/200px-Flag_of_the_Philippines.svg.png";
 		break;
 		case 39330:
 		document.getElementById('text').innerHTML="The Country is Poland";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Poland.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/160px-Flag_of_Poland.svg.png";
 		break;
 		case 2323:
 		document.getElementById('text').innerHTML="The Country is Portugal";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Portugal.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/150px-Flag_of_Portugal.svg.png";
 		break;
 		case 18764:
 		document.getElementById('text').innerHTML="The Country is Qatar";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Qatar.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/255px-Flag_of_Qatar.svg.png";
 		break;
 		case 41386:
 		document.getElementById('text').innerHTML="The Country is Romania";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Romania.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/150px-Flag_of_Romania.svg.png";
 		break;
 		case 236731:
 		document.getElementById('text').innerHTML="The Country is Russia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Russia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/150px-Flag_of_Russia.svg.png";
 		break;
 		case 13874:
 		document.getElementById('text').innerHTML="The Country is Rwanda";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Rwanda.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/150px-Flag_of_Rwanda.svg.png";
 		break;
 		case 411494:
 		document.getElementById('text').innerHTML="The Country is Saudi Arabia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Saudi-Arabia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/150px-Flag_of_Saudi_Arabia.svg.png";
 		break;
 		case 8226:
 		document.getElementById('text').innerHTML="The Country is Senegal";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Senegal.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/150px-Flag_of_Senegal.svg.png";
 		break;
 		case 40344:
 		document.getElementById('text').innerHTML="The Country is Serbia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Serbia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/150px-Flag_of_Serbia.svg.png";
 		break;
 		case 4624:
 		document.getElementById('text').innerHTML="The Country is Sierra Leone";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Sierra-Leone.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/150px-Flag_of_Sierra_Leone.svg.png";
 		break;
 		case 21456:
 		document.getElementById('text').innerHTML="The Country is Singapore";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Singapore.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/150px-Flag_of_Singapore.svg.png";
 		break;
 		case 106144:
 		document.getElementById('text').innerHTML="The Country is Slovakia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Slovakia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/150px-Flag_of_Slovakia.svg.png";
 		break;
 		case 105120:
 		document.getElementById('text').innerHTML="The Country is Slovenia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Slovenia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/200px-Flag_of_Slovenia.svg.png";
 		break;
 		case 49350:
 		document.getElementById('text').innerHTML="The Country is Somalia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Somalia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/150px-Flag_of_Somalia.svg.png";
 		break;
 		case 132402:
 		document.getElementById('text').innerHTML="The Country is South Africa";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-South-Africa.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/150px-Flag_of_South_Africa.svg.png";
 		break;
 		case 263459:
 		document.getElementById('text').innerHTML="The Country is South Korea";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Korea-South.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/150px-Flag_of_South_Korea.svg.png";
 		break;
 		case 153170:
 		document.getElementById('text').innerHTML="The Country is South Sudan";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-South-Sudan.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/200px-Flag_of_South_Sudan.svg.png";
 		break;
 		case 138083:
 		document.getElementById('text').innerHTML="The Country is Spain";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Spain.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/150px-Flag_of_Spain.svg.png";
 		break;
 		case 658:
 		document.getElementById('text').innerHTML="The Country is Sri Lanka";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Sri-Lanka.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/200px-Flag_of_Sri_Lanka.svg.png";
 		break;
 		case 152162:
 		document.getElementById('text').innerHTML="The Country is Sudan";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Sudan.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/200px-Flag_of_Sudan.svg.png";
 		break;
 		case 203808:
 		document.getElementById('text').innerHTML="The Country is Sweden";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Sweden.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/160px-Flag_of_Sweden.svg.png";
 		break;
 		case 77369:
 		document.getElementById('text').innerHTML="The Country is Switzerland";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Switzerland.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/100px-Flag_of_Switzerland_%28Pantone%29.svg.png";
 		break;
 		case 20578:
 		document.getElementById('text').innerHTML="The Country is Syria";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Syria.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/150px-Flag_of_Syria.svg.png";
 		break;
 		case 132114:
 		document.getElementById('text').innerHTML="The Country is Tanzania";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Tanzania.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/150px-Flag_of_Tanzania.svg.png";
 		break;
 		case 135954:
 		document.getElementById('text').innerHTML="The Country is Thailand";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Thailand.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/150px-Flag_of_Thailand.svg.png";
 		break;
 		case 12336:
 		document.getElementById('text').innerHTML="The Country is Togo";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Togo.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/162px-Flag_of_Togo.svg.png";
 		break;
 		case 17360:
 		document.getElementById('text').innerHTML="The Country is Trinidad and Tobago";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Trinidad-and-Tobago.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/167px-Flag_of_Trinidad_and_Tobago.svg.png";
 		break;
 		case 8486:
 		document.getElementById('text').innerHTML="The Country is Tunisia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Tunisia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/150px-Flag_of_Tunisia.svg.png";
 		break;
 		case 131890:
 		document.getElementById('text').innerHTML="The Country is Turkey";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Turkey.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/150px-Flag_of_Turkey.svg.png";
 		break;
 		case 22354:
 		document.getElementById('text').innerHTML="The Country is Uganda";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Uganda.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/150px-Flag_of_Uganda.svg.png";
 		break;
 		case 170906:
 		document.getElementById('text').innerHTML="The Country is Ukraine";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Ukraine.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/150px-Flag_of_Ukraine.svg.png";
 		break;
 		case 285804:
 		document.getElementById('text').innerHTML="The Country is United Arab Emirates";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-United-Arab-Emirates.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/200px-Flag_of_the_United_Arab_Emirates.svg.png";
 		break;
 		case 7107:
 		document.getElementById('text').innerHTML="The Country is The United Kingdom";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-United-Kingdom.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/200px-Flag_of_the_United_Kingdom.svg.png";
 		break;
 		case 220299:
 		document.getElementById('text').innerHTML="The Country is The United States of America";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-United-States-of-America.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/190px-Flag_of_the_United_States.svg.png";
 		break;
 		case 6233:
 		document.getElementById('text').innerHTML="The Country is Uruguay";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Uruguay.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/150px-Flag_of_Uruguay.svg.png";
 		break;
 		case 136018:
 		document.getElementById('text').innerHTML="The Country is Venezuela";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Venezuela.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/150px-Flag_of_Venezuela.svg.png";
 		break;
 		case 57586:
 		document.getElementById('text').innerHTML="The Country is Vietnam";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Vietnam.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/150px-Flag_of_Vietnam.svg.png";
 		break;
 		case 185046:
 		document.getElementById('text').innerHTML="The Country is Yemen";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Yemen.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/150px-Flag_of_Yemen.svg.png";
 		break;
 		case 133122:
 		document.getElementById('text').innerHTML="The Country is Zambia";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Zambia.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/150px-Flag_of_Zambia.svg.png";
 		break;
 		case 21586:
 		document.getElementById('text').innerHTML="The Country is Zimbabwe";
-		document.getElementById('y').src="https://www.countries-ofthe-world.com/flags/flag-of-Zimbabwe.png";
+		document.getElementById('y').src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/200px-Flag_of_Zimbabwe.svg.png";
 		break;
 		default:
-		document.getElementById('text').innerHTML="Something went wrong. Please check all your answers and submit again.";
+		document.getElementById('text').innerHTML="Something went wrong. Please check all your answers and click on the picture below.";
 		
 	}
 }
